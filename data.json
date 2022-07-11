@@ -1,0 +1,37 @@
+{
+    "titulo": "Ax' Catering",
+    "ubicacion": "#",
+    "acercaDe": "#",
+    "facebook": "#",
+    "whatsapp": "#",
+    "instagram": "#",
+    "platos_principales": [
+        {
+            "nombre": "Ravioles",
+            "precio": "$1200",
+            "descripcion": "Arroz con queso"
+        },
+        {
+            "nombre": "Fideos",
+            "precio": "$300",
+            "descripcion": "Arroz con queso"
+        },
+        {
+            "nombre": "Sorrentinos",
+            "precio": "$1200",
+            "descripcion": "Arroz con queso"
+        },
+        {
+            "nombre": "Ravioles de la Semana pasada",
+            "precio": "$1200",
+            "descripcion": "Arroz con queso"
+        }
+    ],
+    "postres": [
+        {
+            "nombre": "sandwich",
+            "precio": "$300",
+            "descripcion": "crema cortada"
+        }
+    ]
+}
