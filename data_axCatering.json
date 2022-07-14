@@ -4,7 +4,7 @@
     "cafeteria": [
         {
             "nombre": "Expresso",
-            "descripcion": null,
+            "descripcion": "americano",
             "precio": 150
         },
         {
