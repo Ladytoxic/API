@@ -220,7 +220,7 @@
         {
             "nombre": "Fugazzetta",
             "descripcion": null,
-            "precio": 800
+            "precio": 900
         },
         {
             "nombre": "Pizza Muzzarella",
@@ -312,17 +312,17 @@
         {
             "nombre": "Entraña con Guarnición",
             "descripcion": null,
-            "precio": 1600
+            "precio": 1700
         },
         {
             "nombre": "Lomo con Guarnición y Salsa",
             "descripcion": null,
-            "precio": 1600
+            "precio": 1700
         },
         {
             "nombre": "Salmon con Guarnición",
             "descripcion": null,
-            "precio": 1700
+            "precio": 2200
         }
     ],
     "porciones": [
@@ -381,12 +381,12 @@
         {
             "nombre": "Tagliatelle",
             "descripcion": null,
-            "precio": 500
+            "precio": 600
         },
         {
             "nombre": "Ñoquis",
             "descripcion": null,
-            "precio": 700
+            "precio": 600
         },
         {
             "nombre": "Sorrentinos",
